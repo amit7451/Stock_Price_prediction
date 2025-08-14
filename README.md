@@ -1,6 +1,6 @@
 # Stock Price Prediction with LSTM Neural Network
 
-![Stock Prediction Visualization](https://i.imgur.com/9XvJY7y.png)
+
 
 ## Overview
 This project implements a Long Short-Term Memory (LSTM) neural network for stock price prediction using historical data. The solution runs entirely in Google Colab and provides:
